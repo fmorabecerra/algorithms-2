@@ -1,13 +1,20 @@
 /* *****************************************************************************
  *  Name:
  *  Date:
- *  Description:
+ *  Description: https://coursera.cs.princeton.edu/algs4/assignments/wordnet/specification.php
  **************************************************************************** */
 
 public class Outcast {
-    public Outcast(WordNet wordnet)         // constructor takes a WordNet object
+    // constructor takes a WordNet object
+    public Outcast(WordNet wordnet) {
+    }
 
-    public String outcast(String[] nouns)   // given an array of WordNet nouns, return an outcast
+    // given an array of WordNet nouns, return an outcast
+    public String outcast(String[] nouns) {
+        return null;
+    }
 
-    public static void main(String[] args)  // see test client below
+    // see test client below
+    public static void main(String[] args) {
+    }
 }
