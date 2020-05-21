@@ -8,6 +8,8 @@ public class WordNet {
 
     // constructor takes the name of the two input files
     public WordNet(String synsets, String hypernyms) {
+        // Okay to use Digraph class. SAP API will expect it.
+        // Digraph digraph = new Digraph.main();
     }
 
     // returns all WordNet nouns
